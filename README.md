@@ -1,16 +1,21 @@
 # DIY-3D-Printer-Project
 
 ## Firmware
+
 Firmware được xây dựng dựa trên Marlin 2.x. Thư mục này chứa các tệp cấu hình và build đã được điều chỉnh để phù hợp với máy in 3D FDM tự chế tạo sử dụng MKS TinyBee.
+
 **Cấu trúc thư mục**
+
 03_Firmware/
 ├── Marlin/
 ├── ini/
 └── platformio.ini
 
 **Cài đặt và sử dụng Firmware**
+
 Các tệp được đưa lên GitHub là các tệp đã chỉnh sửa, không phải toàn bộ mã nguồn Marlin.
 Để sử dụng firmware, thực hiện theo các bước sau:
+
 **Bước 1: Tải Marlin gốc**
 
 Tải phiên bản Marlin 2.x tương ứng với phiên bản được sử dụng trong project.
